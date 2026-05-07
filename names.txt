@@ -1,7 +1,5 @@
 === Group[SFSM] - Names List ===
 Matthew Livingstone
 Skylar Magouliotis
-skylar-magouliotis
 Savneet Kaur
-savneet-kaur
 Feitian Li
